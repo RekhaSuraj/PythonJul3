@@ -29,4 +29,4 @@ print(max(list1))
 # hw - find the smallest number in a list without using min() inbuilt method
 list2 = [30,45,5,15,20,1,4]
 
-print('Hello')
+print('HelloWorld')
